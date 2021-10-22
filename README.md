@@ -18,4 +18,4 @@ If you find the code helpful for your research, please cite our paper:
 }
 
 ## Contact
-For any queries, please contact: sachin.chhabra@asu.edu
+For any queries, feel free to contact: sachin.chhabra@asu.edu
