@@ -3,8 +3,6 @@ Official PyTorch Implementation of Glocal Alignment for Unsupervised Domain Adap
 
 ## Run
 Run the code using the shell scripts in the scripts folder.
-<br>
-<br>
 
 ## Citation
 If you find the code helpful for your research, please cite our paper:
