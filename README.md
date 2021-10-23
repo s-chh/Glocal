@@ -2,7 +2,7 @@
 Official PyTorch Implementation of Glocal Alignment for Unsupervised Domain Adaptation.
 
 ## Run
-Run the code using svhn2mnist.sh for SVHN &#10230; MNIST
+Run the code using svhn2mnist.sh for SVHN &#10230; MNIST transfer.
 
 ## Citation
 If you find the code helpful for your research, please cite our paper:
