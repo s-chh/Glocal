@@ -7,12 +7,12 @@ Run the code using svhn2mnist.sh for SVHN &#10230; MNIST transfer.
 ## Citation
 If you find the code helpful for your research, please cite our paper:
 
-@incollection{chhabra2021glocal,
-  title={Glocal Alignment for Unsupervised Domain Adaptation},
-  author={Chhabra, Sachin and Dutta, Prabal Bijoy and Li, Baoxin and Venkateswara, Hemanth},
-  booktitle={Multimedia Understanding with Less Labeling on Multimedia Understanding with Less Labeling},
-  pages={45--51},
-  year={2021}
+@incollection{chhabra2021glocal, <br>
+  title={Glocal Alignment for Unsupervised Domain Adaptation}, <br>
+  author={Chhabra, Sachin and Dutta, Prabal Bijoy and Li, Baoxin and Venkateswara, Hemanth}, <br>
+  booktitle={Multimedia Understanding with Less Labeling on Multimedia Understanding with Less Labeling}, <br>
+  pages={45--51}, <br>
+  year={2021}<br>
 }
 
 ## Contact
