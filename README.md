@@ -1,5 +1,5 @@
 # Glocal Alignment for Unsupervised Domain Adaptation
-Official PyTorch Implementation of Glocal Alignment for Unsupervised Domain Adaptation.
+Official PyTorch Implementation of [Glocal Alignment for Unsupervised Domain Adaptation](https://dl.acm.org/doi/abs/10.1145/3476098.3485051).
 
 ## Run
 Run the code using svhn2mnist.sh for SVHN &#10230; MNIST transfer.
